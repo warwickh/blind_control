@@ -1,4 +1,4 @@
-#include "venetian_blinds.h"
+#include "blinds.h"
 #include "esphome/core/log.h"
 #include "esphome/core/hal.h"
 
